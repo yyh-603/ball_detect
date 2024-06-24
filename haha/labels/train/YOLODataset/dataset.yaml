@@ -1,6 +1,0 @@
-train: ./dataset/labels/train/YOLODataset/images/train/
-val: ./dataset/labels/train/YOLODataset/images/val/
-
-nc: 3
-
-names: ['red ball', 'white ball', 'blue ball']

@@ -1,0 +1,6 @@
+train: /home/yyh603/balls/haha/labels/train/YOLODataset_seg/images/train/
+val: /home/yyh603/balls/haha/labels/train/YOLODataset_seg/images/val/
+
+nc: 3
+
+names: ['white ball', 'red ball', 'blue ball']
